@@ -8,6 +8,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ### The Eas(iest) Way
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
 
 - Start docker daemon [skip if already running]:
