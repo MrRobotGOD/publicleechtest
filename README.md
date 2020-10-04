@@ -8,7 +8,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ### The Eas(iest) Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRobotGOD/publicleechtest/tree/master)
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
 
